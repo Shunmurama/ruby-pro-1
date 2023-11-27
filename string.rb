@@ -26,3 +26,7 @@ puts "Hello, \#{name}"
 puts 'He said, "Don\'t speak."'
 
 puts "He said, \"Don't speak.\""
+
+puts [10, 20, 30].join
+
+puts 'Hi!' * 10
